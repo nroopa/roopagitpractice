@@ -1,10 +1,11 @@
 #include<stdio.h>
 #include<iostream.h>
-int main()
+void main()
 {
 
 int x;
 char y;
+printf("printing default values");
+scanf("%d %c", x,y);
 
-return 0;
 }
