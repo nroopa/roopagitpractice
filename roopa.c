@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<iostream.h>
+namespace std;//cplus program gives an error
 void main()
 {
 
